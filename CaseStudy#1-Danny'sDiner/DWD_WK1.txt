@@ -145,4 +145,3 @@ case when member ='Y' then dense_rank() over(partition by customer_id,member ord
 when member ='N' then null end as ranking 
 from cte
 order by customer_id
-
