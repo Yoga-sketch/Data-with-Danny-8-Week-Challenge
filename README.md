@@ -30,7 +30,7 @@ Feel free to explore, analyze, and come up with your own solutions for each case
 
 ## Repository Structure
 
-- *Case Studies:* Individual folders for each case study, including instructions and datasets. You will find SQL scripts and queries showcasing possible solutions for each case study.
+- *Case Studies:* Individual folders for each case study, including instructions and datasets. You will find SQL queries showcasing possible solutions for each case study.
 
 ## Requirements:
 - Basic knowledge of SQL and relational databases.
